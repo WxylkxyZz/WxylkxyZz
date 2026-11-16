@@ -31,7 +31,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=WxylkxyZz&theme=default" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=WxylkxyZz&theme=tokyonight" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">⭐ <b>5</b> Stars &nbsp;·&nbsp; 📝 <b>280</b> Commits &nbsp;·&nbsp; 🔀 <b>6</b> PRs &nbsp;·&nbsp; 📦 <b>18</b> Repos &nbsp;·&nbsp; 👥 <b>3</b> Followers</p>
