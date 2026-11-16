@@ -31,9 +31,12 @@
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=WxylkxyZz&theme=tokyonight)](https://git.io/streak-stats)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WxylkxyZz&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WxylkxyZz&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<p>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WxylkxyZz&theme=default" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WxylkxyZz&theme=default" />
+</p>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=WxylkxyZz&theme=default)](https://git.io/streak-stats)
 
 ## 📬 Contact
 
