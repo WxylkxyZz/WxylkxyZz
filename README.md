@@ -26,17 +26,15 @@
 |---|---|---|
 | [ai-video-director](https://github.com/WxylkxyZz/ai-video-director) | TikTok AI video director | Python ⭐2 |
 | [Canopy](https://github.com/WxylkxyZz/Canopy) | 多家 API 站点汇聚成一个 Key、一个入口，自动发现模型、智能路由、成本最优 | TypeScript |
-| [Epidemic_Project](https://github.com/WxylkxyZz/Epidemic_Project) | 基于 Python + Flask + Echarts 的疫情爬虫 & 数据可视化 | Python ⭐1 |
 | [AHR999_Regular-investment](https://github.com/WxylkxyZz/AHR999_Regular-investment) | 基于 ahr999 指标定投比特币 | ⭐2 |
 
 ## 📊 GitHub Stats
 
-<p>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WxylkxyZz&theme=default" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WxylkxyZz&theme=default" />
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=WxylkxyZz&theme=default" alt="GitHub Streak" /></a>
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=WxylkxyZz&theme=default)](https://git.io/streak-stats)
+<p align="center">⭐ <b>5</b> Stars &nbsp;·&nbsp; 📝 <b>280</b> Commits &nbsp;·&nbsp; 🔀 <b>6</b> PRs &nbsp;·&nbsp; 📦 <b>18</b> Repos &nbsp;·&nbsp; 👥 <b>3</b> Followers</p>
 
 ## 📬 Contact
 
