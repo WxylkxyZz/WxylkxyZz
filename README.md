@@ -22,15 +22,18 @@
 
 ## 🚀 Featured Projects
 
-[![ai-video-director](https://github-readme-stats.vercel.app/api/pin/?username=WxylkxyZz&repo=ai-video-director&theme=panda)](https://github.com/WxylkxyZz/ai-video-director)
-[![Canopy](https://github-readme-stats.vercel.app/api/pin/?username=WxylkxyZz&repo=Canopy&theme=panda)](https://github.com/WxylkxyZz/Canopy)
-[![Epidemic_Project](https://github-readme-stats.vercel.app/api/pin/?username=WxylkxyZz&repo=Epidemic_Project&theme=panda)](https://github.com/WxylkxyZz/Epidemic_Project)
-[![AHR999_Regular-investment](https://github-readme-stats.vercel.app/api/pin/?username=WxylkxyZz&repo=AHR999_Regular-investment&theme=panda)](https://github.com/WxylkxyZz/AHR999_Regular-investment)
+| 项目 | 简介 | 语言 |
+|---|---|---|
+| [ai-video-director](https://github.com/WxylkxyZz/ai-video-director) | TikTok AI video director | Python ⭐2 |
+| [Canopy](https://github.com/WxylkxyZz/Canopy) | 多家 API 站点汇聚成一个 Key、一个入口，自动发现模型、智能路由、成本最优 | TypeScript |
+| [Epidemic_Project](https://github.com/WxylkxyZz/Epidemic_Project) | 基于 Python + Flask + Echarts 的疫情爬虫 & 数据可视化 | Python ⭐1 |
+| [AHR999_Regular-investment](https://github.com/WxylkxyZz/AHR999_Regular-investment) | 基于 ahr999 指标定投比特币 | ⭐2 |
 
 ## 📊 GitHub Stats
 
-[![WxylkxyZz's GitHub stats](https://github-readme-stats.vercel.app/api?username=WxylkxyZz&show_icons=true&theme=panda)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WxylkxyZz&layout=compact&theme=panda)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=WxylkxyZz&theme=tokyonight)](https://git.io/streak-stats)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WxylkxyZz&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WxylkxyZz&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ## 📬 Contact
 
